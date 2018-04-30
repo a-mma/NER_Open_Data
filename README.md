@@ -18,7 +18,7 @@ All the information collected within a span of time is formatted as a single JSO
               "entities":[
                             {
                               "start":"- entity word starting position within text",
-                              "end":"- entity word starting position within text",
+                              "end":"- entity word ending position within text",
                               "value":"- actual entity value",
                               "entity":"- entity type specified"
                             },
