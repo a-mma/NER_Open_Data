@@ -32,7 +32,7 @@ All the information collected within a span of time is formatted as a single JSO
 }
 ```
 
-## Are you are a developer researcher or hobbyist? 💻🔬🏏
+## Are you are a developer, researcher or hobbyist? 💻🔬🏏
 We encourage you to make use of this data and let's see what we could give in return.
 
 ## Are you an Entrepreneur? 🏢
