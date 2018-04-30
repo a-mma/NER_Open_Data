@@ -5,6 +5,33 @@ Hey curious explorer 👋, welcome.
 
 We are happy to present to you this **NER Open Data repository** on the behalf of 🎈🎆 each unknown generous contributor 🍾🎉.  Feel free to use this in your pet projects, geeky experiments, futuristic products or anywhere your creative mind tells you to. We feel very proud of making our first baby step 👶 to push language barriers together with the public. Let's make sure that no one gets discriminated in the connected world because of their language, at least in India 🇮🇳🇮🇳. And let everyone build tools for anyone else across boundaries.
 
+## how to use this data? (data format)
+
+All the information collected within a span of time is formatted as a single JSON object. All tagged information belongs to `data` field, which is a list. Each element of that list corresponds to each article in some language. A single article is another object having fields `text` and `entities` where `text` field contains the original raw article text and `entities` field contains a list of tagged entities in that article. This `entities` field is also another object having fields `start`, `value`, `end`, `entity`. Below snippet will give you a snapshot of the entire JSON object.
+```
+{
+  "n_docs": "- total number of documentss tagged so far",
+  "n_entities": "- total number of entities tagged so far",
+  "data":[
+            {
+              "text":"- article original raw text",
+              "entities":[
+                            {
+                              "start":"- entity word starting position within text",
+                              "end":"- entity word starting position within text",
+                              "value":"- actual entity value",
+                              "entity":"- entity type specified"
+                            },
+                           {...},
+                           {...}
+                        ]
+            },
+            {...},
+            {...}
+        ]
+}
+```
+
 ## Are you are a developer researcher or hobbyist? 💻🔬🏏
 We encourage you to make use of this data and let's see what we could give in return.
 
