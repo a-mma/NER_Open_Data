@@ -41,6 +41,9 @@ We have got a great idea and awesome tools, but no data? Don't let data unavaila
 ## Are you a student? 💯🎓
 You have got a lot of time to learn new stuff and experiment with it. Give this a try and let's see where this leads you. Ask questions on that journey, and we're here to help you smash any roadblocks 🥊🥊.
 
+## Are you a content creator?
+Contribute for the greater good and make sense of your content data (generate structured data).
+
 ## And finally.., We need your help as well. 🆘
 To keep above-mentioned things alive, we need to fuel it. Here's how to do it:
 - the first and foremost thing to do is giving contributions to **Open Data Collection**. Just [go here☝️](http://amma-ner-frontend.herokuapp.com/) and input some data whenever you get some time.
