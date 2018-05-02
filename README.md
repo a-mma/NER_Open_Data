@@ -1,5 +1,5 @@
 # a-mma_NER_Open_Data
-> This repo contains timely updated NER tagged data collected through a-mma NER data collection programme located [here](http://amma-ner-frontend.herokuapp.com/).
+> This repo contains timely updated NER tagged data collected through a-mma NER data collection programme. The online web interface is located [here](http://amma-ner-frontend.herokuapp.com/).
 
 Hey curious explorer 👋, welcome.
 
