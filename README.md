@@ -3,6 +3,7 @@
 
 ## Update [1 June 2018]
 * added NER data collected during last month in news category.
+* added NOBJ (wiki named objects - can be converted into named entities) data collected during last month from wikipedia.
 
 ---
 
