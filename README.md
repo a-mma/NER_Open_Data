@@ -1,6 +1,13 @@
 # a-mma_NER_Open_Data
 > This repo contains timely updated NER tagged data collected through a-mma NER data collection programme. The online web interface is located [here](http://amma-ner-frontend.herokuapp.com/).
 
+## Update [1 June 2018]
+* added NER data collected during last month in news category.
+
+---
+
+
+
 Hey curious explorer 👋, welcome.
 
 We are happy to present to you this **NER Open Data repository** on the behalf of 🎈🎆 each unknown generous contributor 🍾🎉.  Feel free to use this in your pet projects, geeky experiments, futuristic products or anywhere your creative mind tells you to. We feel very proud of making our first baby step 👶 to push language barriers together with the public. Let's make sure that no one gets discriminated in the connected world because of their language, at least in India 🇮🇳🇮🇳. And let everyone build tools for anyone else across boundaries.
