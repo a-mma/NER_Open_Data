@@ -1,9 +1,8 @@
 # a-mma_NER_Open_Data
 > This repo contains timely updated NER tagged data collected through a-mma NER data collection programme. The online web interface is located [here](http://amma-ner-frontend.herokuapp.com/).
 
-## Update [1 June 2018]
+## Update [3 July 2018]
 * added NER data collected during last month in news category.
-* added NOBJ (wiki named objects - can be converted into named entities) data collected during last month from wikipedia.
 
 ---
 
